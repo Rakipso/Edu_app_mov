@@ -1,0 +1,51 @@
+com.example.eduapp-ui-util-release-0 C:\Users\teamf\.gradle\caches\9.3.0\transforms\0a12d856e84d7418188fd18babbaa9a5\workspace\transformed\ui-util-release\res
+com.example.eduapp-lifecycle-viewmodel-ktx-2.8.4-1 C:\Users\teamf\.gradle\caches\9.3.0\transforms\2088bcb9b066bf856ea42d92fae5f0b5\workspace\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.example.eduapp-core-runtime-2.2.0-2 C:\Users\teamf\.gradle\caches\9.3.0\transforms\2588d185d13a0e9fcd99033020120de8\workspace\transformed\core-runtime-2.2.0\res
+com.example.eduapp-ui-tooling-release-3 C:\Users\teamf\.gradle\caches\9.3.0\transforms\273931d8f0755f632b1bee03a92ea0bc\workspace\transformed\ui-tooling-release\res
+com.example.eduapp-emoji2-1.3.0-4 C:\Users\teamf\.gradle\caches\9.3.0\transforms\274607fe4162ddbc73100fbda8b881cc\workspace\transformed\emoji2-1.3.0\res
+com.example.eduapp-lifecycle-runtime-ktx-release-5 C:\Users\teamf\.gradle\caches\9.3.0\transforms\29bac0242e2a46fe65af39b6963f7383\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.example.eduapp-savedstate-ktx-1.2.1-6 C:\Users\teamf\.gradle\caches\9.3.0\transforms\2d01ab5b934a489d75dbe04d3131a84e\workspace\transformed\savedstate-ktx-1.2.1\res
+com.example.eduapp-ui-text-release-7 C:\Users\teamf\.gradle\caches\9.3.0\transforms\3a8ec064bed1400b8e16b48c975658e4\workspace\transformed\ui-text-release\res
+com.example.eduapp-customview-poolingcontainer-1.0.0-8 C:\Users\teamf\.gradle\caches\9.3.0\transforms\3e6b63cc557669fe97175d07ea120af6\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.example.eduapp-startup-runtime-1.1.1-9 C:\Users\teamf\.gradle\caches\9.3.0\transforms\416bc732fbe84e05d045062c87620cd8\workspace\transformed\startup-runtime-1.1.1\res
+com.example.eduapp-material-ripple-release-10 C:\Users\teamf\.gradle\caches\9.3.0\transforms\419366404f42a2da50e63f3d1ea26a48\workspace\transformed\material-ripple-release\res
+com.example.eduapp-material3-release-11 C:\Users\teamf\.gradle\caches\9.3.0\transforms\43976bc69ad80d9b5dbc7f03c07fd383\workspace\transformed\material3-release\res
+com.example.eduapp-foundation-release-12 C:\Users\teamf\.gradle\caches\9.3.0\transforms\4d5547f741c7cb538db059939c0b5974\workspace\transformed\foundation-release\res
+com.example.eduapp-material-icons-extended-release-13 C:\Users\teamf\.gradle\caches\9.3.0\transforms\5029dd13f83ae4c016737868d438de81\workspace\transformed\material-icons-extended-release\res
+com.example.eduapp-annotation-experimental-1.4.1-14 C:\Users\teamf\.gradle\caches\9.3.0\transforms\528af50d750861b83ebfbbe52d2e70fc\workspace\transformed\annotation-experimental-1.4.1\res
+com.example.eduapp-runtime-saveable-release-15 C:\Users\teamf\.gradle\caches\9.3.0\transforms\5f93a31353b059733fff9dd110cb8fcc\workspace\transformed\runtime-saveable-release\res
+com.example.eduapp-material-icons-core-release-16 C:\Users\teamf\.gradle\caches\9.3.0\transforms\5f9b71a25cb7d59d9912f61ecf316be2\workspace\transformed\material-icons-core-release\res
+com.example.eduapp-ui-graphics-release-17 C:\Users\teamf\.gradle\caches\9.3.0\transforms\61a91e9d5a1a672c56f77ba1f5c31be7\workspace\transformed\ui-graphics-release\res
+com.example.eduapp-ui-release-18 C:\Users\teamf\.gradle\caches\9.3.0\transforms\65a71e23dee1cd11d5947561ce88081e\workspace\transformed\ui-release\res
+com.example.eduapp-savedstate-1.2.1-19 C:\Users\teamf\.gradle\caches\9.3.0\transforms\672dd610f70a29200cbe863a52f47d67\workspace\transformed\savedstate-1.2.1\res
+com.example.eduapp-lifecycle-viewmodel-release-20 C:\Users\teamf\.gradle\caches\9.3.0\transforms\69b2b5ecbcdad0cdd11837f3280244ec\workspace\transformed\lifecycle-viewmodel-release\res
+com.example.eduapp-ui-test-manifest-1.7.3-21 C:\Users\teamf\.gradle\caches\9.3.0\transforms\6a38c16d0723eedf9ed0c71d517a0ac6\workspace\transformed\ui-test-manifest-1.7.3\res
+com.example.eduapp-lifecycle-process-2.8.4-22 C:\Users\teamf\.gradle\caches\9.3.0\transforms\716e19b8df2a400b8d2d86e8e024078d\workspace\transformed\lifecycle-process-2.8.4\res
+com.example.eduapp-activity-ktx-1.9.2-23 C:\Users\teamf\.gradle\caches\9.3.0\transforms\80db482f8995d530a57a9fa5bf29d8fa\workspace\transformed\activity-ktx-1.9.2\res
+com.example.eduapp-core-ktx-1.13.1-24 C:\Users\teamf\.gradle\caches\9.3.0\transforms\8d4f2b1d0fdce37c19c8153ff2d2cd6c\workspace\transformed\core-ktx-1.13.1\res
+com.example.eduapp-animation-core-release-25 C:\Users\teamf\.gradle\caches\9.3.0\transforms\8e83948eef280a64175747b073814d8d\workspace\transformed\animation-core-release\res
+com.example.eduapp-ui-tooling-data-release-26 C:\Users\teamf\.gradle\caches\9.3.0\transforms\932e57c7b0025276e8ca7f0adf1f753e\workspace\transformed\ui-tooling-data-release\res
+com.example.eduapp-profileinstaller-1.3.1-27 C:\Users\teamf\.gradle\caches\9.3.0\transforms\a2cfb3559c2258d1b1be9eff6e88048e\workspace\transformed\profileinstaller-1.3.1\res
+com.example.eduapp-lifecycle-runtime-compose-release-28 C:\Users\teamf\.gradle\caches\9.3.0\transforms\a7731d10ca0e8baa6c0b7ebc1b7b495e\workspace\transformed\lifecycle-runtime-compose-release\res
+com.example.eduapp-ui-geometry-release-29 C:\Users\teamf\.gradle\caches\9.3.0\transforms\ac8867f7df209156ff1dae42f4370efc\workspace\transformed\ui-geometry-release\res
+com.example.eduapp-runtime-release-30 C:\Users\teamf\.gradle\caches\9.3.0\transforms\accd31f68885c256d79d30e3c2a69456\workspace\transformed\runtime-release\res
+com.example.eduapp-ui-unit-release-31 C:\Users\teamf\.gradle\caches\9.3.0\transforms\b9e49d91cd7514623d253ebfab08fe4c\workspace\transformed\ui-unit-release\res
+com.example.eduapp-material-release-32 C:\Users\teamf\.gradle\caches\9.3.0\transforms\bae397afbf8cad1fc54def1937e9031b\workspace\transformed\material-release\res
+com.example.eduapp-activity-1.9.2-33 C:\Users\teamf\.gradle\caches\9.3.0\transforms\bb41f66fc5851f2a2bcf3b6f377a7b4a\workspace\transformed\activity-1.9.2\res
+com.example.eduapp-graphics-path-1.0.1-34 C:\Users\teamf\.gradle\caches\9.3.0\transforms\cbe50e39f87723c5540bf1417a422e14\workspace\transformed\graphics-path-1.0.1\res
+com.example.eduapp-lifecycle-livedata-core-2.8.4-35 C:\Users\teamf\.gradle\caches\9.3.0\transforms\d08134d8e7398056b798fb267f9bca00\workspace\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.eduapp-lifecycle-viewmodel-savedstate-2.8.4-36 C:\Users\teamf\.gradle\caches\9.3.0\transforms\da66f14f69942aa8f0dd1e9e949a3865\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.eduapp-animation-release-37 C:\Users\teamf\.gradle\caches\9.3.0\transforms\da717854f7be94b42a87c3223f649474\workspace\transformed\animation-release\res
+com.example.eduapp-ui-tooling-preview-release-38 C:\Users\teamf\.gradle\caches\9.3.0\transforms\e0333925c8f3f45a7d47c9bed8df938f\workspace\transformed\ui-tooling-preview-release\res
+com.example.eduapp-activity-compose-1.9.2-39 C:\Users\teamf\.gradle\caches\9.3.0\transforms\e36629d1b63628c01886328fd53a13de\workspace\transformed\activity-compose-1.9.2\res
+com.example.eduapp-core-1.13.1-40 C:\Users\teamf\.gradle\caches\9.3.0\transforms\f1e00def765802b69710d9378fc568da\workspace\transformed\core-1.13.1\res
+com.example.eduapp-foundation-layout-release-41 C:\Users\teamf\.gradle\caches\9.3.0\transforms\f801a4dadae7b3842ccc9bbd8cec6e8e\workspace\transformed\foundation-layout-release\res
+com.example.eduapp-lifecycle-runtime-release-42 C:\Users\teamf\.gradle\caches\9.3.0\transforms\fda4ff86ab13dd971c85accd4fe38caa\workspace\transformed\lifecycle-runtime-release\res
+com.example.eduapp-pngs-43 F:\Des Movil\app\app\build\generated\res\pngs\debug
+com.example.eduapp-resValues-44 F:\Des Movil\app\app\build\generated\res\resValues\debug
+com.example.eduapp-updated_navigation_xml-45 F:\Des Movil\app\app\build\generated\updated_navigation_xml\debug
+com.example.eduapp-packageDebugResources-46 F:\Des Movil\app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.eduapp-packageDebugResources-47 F:\Des Movil\app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.eduapp-debug-48 F:\Des Movil\app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.eduapp-debug-49 F:\Des Movil\app\app\src\debug\res
+com.example.eduapp-main-50 F:\Des Movil\app\app\src\main\res
